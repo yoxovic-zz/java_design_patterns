@@ -1,4 +1,4 @@
-package desing_pattern.Observer;
+package design_pattern.Observer;
 
 public class ConcreteObserver implements IObserver{
 	private ConcreteSubject sub;

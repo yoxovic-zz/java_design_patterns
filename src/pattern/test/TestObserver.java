@@ -1,6 +1,6 @@
 package pattern.test;
 
-import desing_pattern.Observer.*;
+import design_pattern.Observer.*;
 
 public class TestObserver {
 
